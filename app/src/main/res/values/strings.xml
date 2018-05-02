@@ -2,5 +2,5 @@
     <string name="app_name">Network Scanner</string>
     <string name="enter_ip">Enter IP Address</string>
     <string name="input_ip">192.168.0.1</string>
-    <string name="scan_btn">Scan</string>
+    <string name="scan_btn">Ping</string>
 </resources>
